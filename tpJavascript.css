@@ -1,0 +1,47 @@
+
+.colorpie{
+
+    background-image:linear-gradient(to right,rgb(26,54,68),rgb(28,83,114));
+   
+   }
+
+   #verde{
+    color: green;
+  }
+
+
+  body {
+    padding-top: 5rem;
+    color: #5a5a5a;
+  }
+  
+  #CuadroEstudiante {
+      border: 0.5px solid blue;
+      padding-right: 1px;
+      padding-left: 1px;
+  }
+
+  #CuadroTrainee {
+    border: 0.5px solid  rgb(14, 81, 126);
+  }
+
+  #CuadroJunior {
+    border: 0.5px solid orange;
+  }
+
+  #total {
+    border: solid lightskyblue;
+    background-color: lightskyblue;
+    color: blue;
+ 
+  }
+
+  #BotonResume{
+    background-color: rgb(71, 163, 71);
+    border: rgb(71, 163, 71);
+  }
+
+  #BotonBorrar{
+    background-color: rgb(71, 163, 71);
+    border: rgb(71, 163, 71);
+  }
